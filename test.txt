@@ -1,10 +1,6 @@
-total 0
-drwxr-xr-x@ 4 ratnendraprs  staff  128 11 Mar 14:29 .
-drwxr-xr-x  6 ratnendraprs  staff  192 11 Mar 10:50 ..
-drwxr-xr-x  9 ratnendraprs  staff  288 11 Mar 14:26 .git
--rw-r--r--  1 ratnendraprs  staff    0 11 Mar 14:29 test.txt
 total 8
-drwxr-xr-x@  4 ratnendraprs  staff  128 11 Mar 14:29 .
+drwxr-xr-x@  5 ratnendraprs  staff  160 14 Mar 14:31 .
 drwxr-xr-x   6 ratnendraprs  staff  192 11 Mar 10:50 ..
-drwxr-xr-x  12 ratnendraprs  staff  384 14 Mar 13:38 .git
--rw-r--r--   1 ratnendraprs  staff  235 11 Mar 14:29 test.txt
+drwxr-xr-x  14 ratnendraprs  staff  448 14 Mar 14:32 .git
+-rw-r--r--   1 ratnendraprs  staff    0 14 Mar 14:32 test.txt
+-rw-r--r--   1 ratnendraprs  staff   29 14 Mar 14:31 test2.txt

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>HELLO WORLD!</title>
+<title>HELLO GEEKS WORLD!</title>
 <link rel="stylesheet" href="bluestyle.css">
 </head>
 <body>
